@@ -8,5 +8,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "next": "^15.5.3",
+    "next.js": "^1.0.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "router": "^2.2.0"
+  }
 }
